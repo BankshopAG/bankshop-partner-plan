@@ -1,0 +1,1 @@
+# bankshop-partner-plan
